@@ -1,4 +1,4 @@
-# Chla Forecasting Project
+# PROJECT INTRODUCTION
 This is A Cluster-Stacking-based Approach to Forecasting Seasonal Chlorophyll-a Concentration in Coastal Waters
 
 # FILE DESCRIPTION
