@@ -1,4 +1,4 @@
-# Chla-Forecasting
+# Chla Forecasting Project
 This is A Cluster-Stacking-based Approach to Forecasting Seasonal Chlorophyll-a Concentration in Coastal Waters
 
 # FILE DESCRIPTION
@@ -23,3 +23,6 @@ This is A Cluster-Stacking-based Approach to Forecasting Seasonal Chlorophyll-a 
 4.	Draw the result of feature importance analysis by plot_feature_importants.py (optional).
 5.	Achieve stacking-based approach through Stacking_model_no_cluster.py.
 6.	Achieve Cluster-Stacking-based approach through Stacking_model_print_result.py.
+
+# Note
+Some of the intermediate documents are not shown in this project.
