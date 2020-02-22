@@ -2,7 +2,7 @@
 This is A Cluster-Stacking-based Approach to Forecasting Seasonal Chlorophyll-a Concentration in Coastal Waters
 
 # FILE DESCRIPTION
-1.	2015-2018ALL: dataset used in the experiment. LK represents the K-season-behind historical data of water quality monitoring stations. Due to the confidentiality of the data, we hash the number of monitoring stations and hide the geographical location coordinates of the stations.
+1.	2015-2018ALL: The folder used to store the original data of the experiment. Recommended file naming: LK.csv, where K represents the K-season-behind historical data of water quality monitoring stations. Due to the confidentiality of marine monitoring station information, we do not provide the original data set for the experiment.
 2.	Pictures: experimental results. 
 3.	2015-2018Time.csv: the seasonal average concentration of chlorophyll-a of each monitoring station in 2015-2018.
 4.	Cluster_function.py: group stations through various clustering algorithms.
@@ -24,5 +24,5 @@ This is A Cluster-Stacking-based Approach to Forecasting Seasonal Chlorophyll-a 
 5.	Achieve stacking-based approach through Stacking_model_no_cluster.py.
 6.	Achieve Cluster-Stacking-based approach through Stacking_model_print_result.py.
 
-# Note
+# NOTE
 Some of the intermediate documents are not shown in this project.
